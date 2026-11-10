@@ -1,0 +1,9 @@
+# Requests
+/httpRequests/
+
+# Python
+__pycache__/
+db.sqlite3
+
+# Mac
+.DS_Store
